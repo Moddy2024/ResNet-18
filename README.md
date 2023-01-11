@@ -17,7 +17,7 @@ Once you have these dependencies installed, you can clone the Custom ResNet-18 r
 # Key Files
 * [resNet18.ipynb](https://github.com/Moddy2024/ResNet-18/blob/main/resNet18.ipynb) - This file shows how the dataset has been downloaded, how the data looks like, the transformations, data augmentations, architecture of the ResNet and the training.
 * [prediction.ipynb](https://github.com/Moddy2024/ResNet-18/blob/main/prediction.ipynb) - This file loads the trained model file and shows how to do predictions on single images, multiple images contained in a folder and images(multiple or single) that can be uploaded to google colab temporarily to perform the prediction.
-* [trained-models](https://github.com/Moddy2024/ResNet-18/tree/main/trained-models) - This directory contains all the best trained model and the trained model saved after the last epoch.
+* [trained-models](https://github.com/Moddy2024/ResNet-18/tree/main/trained-models) - This directory contains the best trained model and the trained model saved after the last epoch.
 * [test-data](https://github.com/Moddy2024/ResNet-18/tree/main/test-data) - This directory contains test images collected randomly from the internet of different categories, sizes and shape for performing the predictions and seeing the results.
 # Features
 This custom ResNet-18 includes the following features:
